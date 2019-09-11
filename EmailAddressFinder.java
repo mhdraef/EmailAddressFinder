@@ -4,6 +4,8 @@
 
 //package com.bham.pij.assignments.a1a;
 
+//Start of original program given as assignment
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -54,6 +56,8 @@ public class EmailAddressFinder
             e.printStackTrace();
         }        
     }
+    
+    // end of original program given as assignment
     
     public boolean checklocal(String input)
     {
